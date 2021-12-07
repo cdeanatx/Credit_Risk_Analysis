@@ -130,3 +130,6 @@ dmypy.json
 
 # Sandbox files
 ml_sandbox/
+
+CSVs
+LoanStats_2019Q1.csv
